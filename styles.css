@@ -196,3 +196,23 @@ body.figure-open{overflow:hidden}
 [lang=fa] .spoken-languages h3{font-family:var(--sans);font-size:11px;letter-spacing:0;text-transform:none}
 [lang=fa] .spoken-languages ul{font-size:13px}
 @media(max-width:560px){.spoken-languages{margin-top:19px;padding-top:16px}.spoken-languages ul{font-size:11px;gap:8px 18px}[lang=fa] .spoken-languages ul{font-size:12px}}
+
+/* Affiliation emblems use their original colors on a neutral background. */
+.affiliation-heading{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.organization{display:inline-flex;align-items:center;gap:8px;max-width:100%;min-width:0}
+.organization>span{min-width:0}
+.organization-logo{display:block;flex:0 0 32px;width:32px;height:32px;object-fit:contain;padding:4px;background:#fff;border-radius:3px}
+.organization-logo--eht{background:#000}
+.organization-separator{color:var(--muted);font-size:.85em;font-weight:400}
+.timeline h3.affiliation-heading{margin-bottom:7px}
+.education h3.affiliation-heading{gap:6px 8px;max-width:100%}
+.education .organization{gap:7px}
+.education .organization-logo{flex-basis:28px;width:28px;height:28px;padding:3px}
+@media(max-width:560px){
+  .timeline .affiliation-heading{flex-direction:column;align-items:flex-start;gap:8px}
+  .timeline .organization-separator{display:none}
+  .education h3.affiliation-heading{max-width:100%;clear:both;padding-top:6px}
+  .education .education-years{float:none;display:block;padding-top:0}
+  .education .organization-separator{display:none}
+  .education h3.affiliation-heading{flex-direction:column;align-items:flex-start;gap:7px}
+}

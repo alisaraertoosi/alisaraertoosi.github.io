@@ -1,0 +1,42 @@
+Affiliation emblems (retrieved 14 November 2026)
+
+These logos identify the institutions named in Ali SaraerToosi's research
+experience and education. Trademarks belong to their respective organizations.
+Colors and aspect ratios are preserved. ICO files were converted to PNG without
+resizing; the EHT file displays the emblem portion of the published vector.
+
+autodesk.png
+https://www.autodesk.com/favicon.ico
+Official current Autodesk symbol, black on white, 32 x 32.
+
+toronto.png
+https://www.utoronto.ca/themes/custom/bootstrap_uoft/images/favicons/favicon.ico
+Official University of Toronto emblem, largest supplied frame, 48 x 48.
+
+vector.png
+https://vectorinstitute.ai/wp-content/uploads/2023/01/favicon-vector-institute-32x32-1.png
+Official Vector Institute symbol, 32 x 32.
+
+perimeter.png
+https://perimeterinstitute.ca/sites/default/files/PI_symbol_48px.ico
+Official Perimeter Institute symbol, largest supplied frame, 48 x 48.
+
+1qbit.png
+https://1qbit.com/wp-content/uploads/2020/05/Q.png
+Official 1QBit icon from https://1qbit.com/media-kit/logos/, 512 x 512.
+
+waterloo.svg
+https://uwaterloo.ca/profiles/uw_base_profile/themes/uw_fdsu_theme_resp/icon.svg
+Official University of Waterloo shield, original SVG.
+
+sharif.svg
+https://cdn.worldvectorlogo.com/logos/sharif.svg
+https://worldvectorlogo.com/logo/sharif
+Sharif University of Technology seal, original monochrome SVG.
+
+eht.svg
+https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope.svg
+https://upload.wikimedia.org/wikipedia/commons/3/35/Event_Horizon_Telescope.svg
+Vectorization by Fandi89; the file page identifies the logo as public-domain
+simple geometric shapes/text. The wordmark group is omitted and the SVG viewport
+is restricted to the existing white emblem on its original black background.

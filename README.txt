@@ -17,6 +17,8 @@ advisors are listed in the website profile and research experience and in each
 public CV's PhD research and education entries.
 The About section also lists the user's spoken languages: English, French, and
 Persian. The heading and language names are localized in each website version.
+Research experience and education headings include locally stored affiliation
+logos. Original sources and emblem details are in assets/logos/SOURCES.txt.
 
 The site also works on any static web host,
 including GitHub Pages, Netlify, and Vercel. No installation or build step is needed.
