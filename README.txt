@@ -9,9 +9,11 @@ patent titles, author lists, citations, and official project names remain in the
 original language. Scientific figures and comparison videos retain their original
 orientation. The French page links to a French CV, translated from the two-page
 English CV with the same research and professional content and section order.
-Official publication titles and venue names retain their original form. Both
-public CVs omit the phone number and include https://alisaraertoosi.github.io as a clickable
-personal website link. The English and Persian pages link to the public English CV.
+The Persian page links to a Persian CV with the same content and a right-to-left
+layout. Official publication titles and venue names retain their original form.
+All three public CVs omit the phone number and include
+https://alisaraertoosi.github.io as a clickable personal website link.
+Each website language links to the corresponding CV language.
 PhD advisors are Aviad Levis and David Lindell, as confirmed by the user. Both
 advisors are listed in the website profile and research experience and in each
 public CV's PhD research and education entries.
