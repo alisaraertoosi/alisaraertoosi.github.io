@@ -15,6 +15,8 @@ personal website link. The English and Persian pages link to the public English 
 PhD advisors are Aviad Levis and David Lindell, as confirmed by the user. Both
 advisors are listed in the website profile and research experience and in each
 public CV's PhD research and education entries.
+The About section also lists the user's spoken languages: English, French, and
+Persian. The heading and language names are localized in each website version.
 
 The site also works on any static web host,
 including GitHub Pages, Netlify, and Vercel. No installation or build step is needed.

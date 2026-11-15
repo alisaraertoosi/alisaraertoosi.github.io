@@ -189,3 +189,10 @@ body.figure-open{overflow:hidden}
 @media(max-width:560px){[lang=fa] h1{font-size:36px;margin-top:18px}[lang=fa] .hero-statement{font-size:29px}[lang=fa] .hero-description{font-size:13px}[lang=fa] .profile-details>.eyebrow{font-size:9px}[lang=fa] .email-address{font-size:9px}[lang=fa] .profile-links{font-size:9px;gap:10px}[lang=fa] .affiliations>a{font-size:11px}[lang=fa] .education-years{float:left}[lang=fa] .feature-body>p:not(.eyebrow){font-size:12px}[lang=fa] .feature-body>.eyebrow{font-size:9px}[lang=fa] .research-directions p{font-size:11px}[lang=fa] .media-panel>span{font-size:9px}[lang=fa] .project-media figcaption{font-size:9px}[lang=fa] .contact-email{font-size:12px}}
 @media(max-width:460px){.header-inner{padding-left:14px;padding-right:14px;gap:9px}.wordmark{font-size:14px;gap:7px}.wordmark .monogram{width:28px;height:28px}.header-controls{gap:7px}.language-switch{font-size:9px;gap:1px}.language-switch a{padding-left:2px;padding-right:2px}.language-switch a[lang=fa]{font-size:10px}.theme-toggle{min-width:28px;width:28px;height:28px}.menu-toggle{width:22px}[lang=fa] .wordmark{font-size:15px}}
 @media(max-width:400px){[lang=fa] .patent-date{text-align:right}[lang=fa] .patent-content h3{font-size:21px}[lang=fa] .filter{font-size:9px}[lang=fa] .hero-copy>.eyebrow{font-size:8px}}
+
+.spoken-languages{margin-top:23px;padding-top:18px;border-top:1px solid var(--line)}
+.spoken-languages h3{font-family:var(--mono);font-size:9px;font-weight:500;line-height:1.7;letter-spacing:1.7px;text-transform:uppercase;color:var(--accent)}
+.spoken-languages ul{display:flex;flex-wrap:wrap;gap:8px 22px;margin:9px 0 0;padding:0;list-style:none;font-size:12px;color:var(--muted)}
+[lang=fa] .spoken-languages h3{font-family:var(--sans);font-size:11px;letter-spacing:0;text-transform:none}
+[lang=fa] .spoken-languages ul{font-size:13px}
+@media(max-width:560px){.spoken-languages{margin-top:19px;padding-top:16px}.spoken-languages ul{font-size:11px;gap:8px 18px}[lang=fa] .spoken-languages ul{font-size:12px}}
